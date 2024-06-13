@@ -4259,15 +4259,15 @@ a {
     padding: 1rem;
   }
 }
-.cid-ufx9WkcY9E {
-  padding-top: 8rem;
-  padding-bottom: 3rem;
+.cid-ufy7M5NQMU {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #fafafa;
 }
-.cid-ufx9WkcY9E .mbr-fallback-image.disabled {
+.cid-ufy7M5NQMU .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufx9WkcY9E .mbr-fallback-image {
+.cid-ufy7M5NQMU .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -4276,30 +4276,46 @@ a {
   position: absolute;
   top: 0;
 }
-@media (max-width: 991px) {
-  .cid-ufx9WkcY9E .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-ufx9WkcY9E .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-ufx9WkcY9E .image-wrapper {
-    padding: 1rem;
-  }
+.cid-ufy7M5NQMU .image-wrap img {
+  width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ufx9WkcY9E .text-wrapper {
-    padding: 0 2rem;
+  .cid-ufy7M5NQMU .image-wrap img {
+    display: block;
+    margin: auto;
   }
 }
-.cid-ufx9WkcY9E .mbr-section-title {
-  color: #260a30;
+.cid-ufy7M5NQMU .row-links {
+  width: 100%;
+  justify-content: center;
 }
-.cid-ufx9WkcY9E .mbr-text,
-.cid-ufx9WkcY9E .mbr-section-btn {
-  color: #260a30;
+.cid-ufy7M5NQMU .header-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-ufy7M5NQMU .header-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-ufy7M5NQMU .header-menu li p {
+  margin: 0;
+}
+.cid-ufy7M5NQMU .mbr-section-title {
+  color: #0b0a0a;
+}
+.cid-ufy7M5NQMU .header-menu-item {
+  color: #ffffff;
+}
+.cid-ufy7M5NQMU .mbr-text,
+.cid-ufy7M5NQMU .mbr-section-btn {
+  color: #0b0a0a;
+  text-align: left;
+}
+.cid-ufy7M5NQMU .content-head {
+  max-width: 800px;
 }
 .cid-uf0Mf5HOOE {
   padding-top: 1rem;
@@ -8390,8 +8406,8 @@ a {
   text-align: center;
 }
 .cid-ufcxl0Ob4S {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
+  padding-top: 7rem;
+  padding-bottom: 5rem;
   background-color: #fafafa;
 }
 .cid-ufcxl0Ob4S .mbr-fallback-image.disabled {
