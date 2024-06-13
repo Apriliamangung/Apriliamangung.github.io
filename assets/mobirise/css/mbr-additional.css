@@ -2037,7 +2037,6 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  display: none;
 }
 @media (max-width: 768px) {
   .cid-ufxvGiAvC0 .embla__button {
