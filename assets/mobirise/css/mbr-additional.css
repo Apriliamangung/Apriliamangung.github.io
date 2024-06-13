@@ -1953,8 +1953,8 @@ a {
   }
 }
 .cid-ufxvGiAvC0 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 9rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-ufxvGiAvC0 img,
@@ -2037,6 +2037,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+  display: none;
 }
 @media (max-width: 768px) {
   .cid-ufxvGiAvC0 .embla__button {
